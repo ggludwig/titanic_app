@@ -20,7 +20,7 @@ docker exec -it my_docker_flask bash
 
 ### Comando para treinamento (requisição GET)
 
-URL_APP:8000/train
+localhost:8000/train
 
 ### Comando para predição (requisição POST)
 
